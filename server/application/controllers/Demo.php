@@ -10,4 +10,8 @@ class Demo extends CI_Controller {
             ]
         ]);
     }
+
+    public function info(){
+
+    }
 }
