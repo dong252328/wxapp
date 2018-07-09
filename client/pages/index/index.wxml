@@ -12,7 +12,7 @@
             <text class="userinfo-nickname" wx:else>{{userInfo.nickName}}</text>
         </view>
     </view>
-
+    <view>冒泡</view>  
 
     <!-- 上传图片测试 -->
     <view class="uploader">
