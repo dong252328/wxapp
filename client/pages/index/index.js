@@ -34,6 +34,8 @@ Page({
                 success: res => {
                     this.setData({ userInfo: res, logged: true })
                     util.showSuccess('登录成功')
+
+                    console.log(1);
                 },
                 fail: err => {
                     console.error(err)
