@@ -30,7 +30,7 @@ page {
 .userinfo-nickname {
     font-size: 32rpx;
     color: #007AFF;
-    background-color: white; 
+    background-color: white;
 }
 
 .userinfo-nickname::after {

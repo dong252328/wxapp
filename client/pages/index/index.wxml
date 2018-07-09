@@ -10,7 +10,7 @@
         <view>
             <button class="userinfo-nickname" wx:if="{{!logged}}" open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">点击测试登录接口</button>
             <text class="userinfo-nickname" wx:else>{{userInfo.nickName}}</text>
-        </view> 
+        </view>
     </view>
 
 
@@ -28,7 +28,7 @@
             ></image>
         </view>
     </view>
-<!-- 666 -->
+
 
     <!-- 上传图片测试 -->
 
